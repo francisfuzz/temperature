@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It exists to implement the React documentation's main concept of [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html).
 
 ## Available Scripts
 
