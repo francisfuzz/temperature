@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Temperature
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dab7aa7f-bfbe-4239-9563-0d3cad1be3b4/deploy-status)](https://app.netlify.com/sites/quizzical-golick-6c9f74/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It exists to implement the React documentation's main concept of [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html).
 
