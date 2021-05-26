@@ -1,6 +1,16 @@
-function BoilingVerdict(props) {
-  if (props.celsius >= 100) {
-    return <p>The water would boil.</p>
+import React from 'react'
+
+class BoilingVerdict extends React.Component {
+  constructor(props) {
+    super(props)
   }
-  return <p>The water would not boil.</p>
+
+  render() {
+    if (props.celsius >= 100) {
+      return <p>The water would boil.</p>
+    }
+    return <p>The water would not boil.</p>
+  }
 }
+
+export default BoilingVerdict
